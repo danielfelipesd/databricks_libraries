@@ -1,0 +1,6 @@
+azure_storage==0.37.0
+logging_json==0.2.1
+requests==2.28.1
+setuptools==49.2.1
+slack_sdk==3.18.3
+snowflake==0.0.3
