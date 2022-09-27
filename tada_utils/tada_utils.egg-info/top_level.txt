@@ -1,0 +1,7 @@
+tadaAzure
+tadaJson
+tadaKPI
+tadaLogger
+tadaPersistence
+tadaRequest
+tadaSlak
